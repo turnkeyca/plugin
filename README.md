@@ -1,2 +1,2 @@
 # plugin
-WEebsite plugin for redirecting to the turnkey main app
+Website plugin for redirecting to the turnkey main app
